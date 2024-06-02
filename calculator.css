@@ -1,0 +1,29 @@
+#container{
+    margin: 0%;
+    padding: 0%;
+    height: 300px;
+    width: 150px;
+    border: solid 1px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-image: url(download.jpeg);
+    border-radius: 4px;
+    margin: auto;
+
+}
+#display{
+    margin: 10px;
+    width: 130px;
+
+}
+.calc_button{
+    height: 40px;
+    width: 40px;
+    text-decoration: solid;
+    background-color:wheat;
+}
+label{
+    color: antiquewhite;
+    padding: 2px,0,0,0;
+}
